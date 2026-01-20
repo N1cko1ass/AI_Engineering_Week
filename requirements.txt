@@ -1,0 +1,7 @@
+silero_tts
+pygame
+vosk
+pyaudio
+Pillow
+g4f
+pyserial
